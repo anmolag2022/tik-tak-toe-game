@@ -24,3 +24,27 @@ To run this game locally, all you need is a web browser.
    cd tic-tac-toe-game
 3. **Open index.html in a Browser:**
    Open the file in any web browser to start playing!
+
+**Usage**
+Open the game by running index.html.
+Click on any square to make your move.
+Alternate turns between Player "X" and Player "O".
+The game will display the winner or announce a draw when appropriate.
+Use the "Reset" or "New Game" buttons to restart the game.
+
+**Project Structure**
+index.html: The HTML structure of the game.
+style.css: The styling for the game interface.
+app.js: The JavaScript code that handles game logic.
+
+**Technologies Used**
+HTML for structure
+CSS for styling
+JavaScript for game functionality
+
+
+**Contributing**
+Contributions, issues, and feature requests are welcome! Feel free to fork the repository and create a pull request.
+
+**License**
+This project is open-source and available under the MIT License.
