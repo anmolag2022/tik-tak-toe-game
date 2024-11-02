@@ -9,7 +9,7 @@ A simple, interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Pla
 - **Responsive Design**: Works well on both desktop and mobile screens.
 
 ## Demo
-Play the live version of this game on GitHub Pages: [Tic-Tac-Toe Live Demo](https://yourusername.github.io/tic-tac-toe-game)
+Play the live version of this game on GitHub Pages: [Tic-Tac-Toe Live Demo](https://anmolag2022.github.io/tik-tak-toe-game/)
 
 ## Getting Started
 ### Prerequisites
